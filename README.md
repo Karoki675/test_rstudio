@@ -7,3 +7,4 @@ W tym pliku zostanie przedstawiona instrukcja połączenia Git i RStudio. Aby te
 3.  Instalacja Git.
 4.  Przedstawienie się Git.
 5.  Stworzenie klucza prywatnego w RStudio do polączenia z GitHub.
+6.  
